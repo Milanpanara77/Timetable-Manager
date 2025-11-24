@@ -4,7 +4,7 @@ A simple and user-friendly desktop application built using Python and Tkinter th
 This project allows users to select a day, enter the subject name, and input start & end times.
 All entries are displayed in a clean popup window when requested.
 
-🚀 Project Overview
+🚀 **Project Overview
 
 The Student Timetable Manager is designed to make timetable management easier for students.
 Instead of writing schedules manually, this application provides a Graphical User Interface (GUI) where users can enter their timetable quickly and accurately.
