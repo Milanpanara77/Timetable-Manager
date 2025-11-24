@@ -1,4 +1,4 @@
-Student Timetable Manager (Python GUI Application)
+# Student Timetable Manager (Python GUI Application)
 
 A simple and user-friendly desktop application built using Python and Tkinter that helps students store and view their daily class timetable.
 This project allows users to select a day, enter the subject name, and input start & end times.
